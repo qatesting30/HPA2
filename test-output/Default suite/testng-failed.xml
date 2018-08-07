@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.healthec.test.functional.ProfilePageUC">
+        <methods>
+          <include name="getResult"/>
+          <include name="getInfo"/>
+          <include name="profilePageTC_009"/>
+          <include name="beforedashboardPageClass"/>
+          <include name="beforeprofilePageTest"/>
+          <include name="profilePageTC_001"/>
+        </methods>
+      </class> <!-- com.healthec.test.functional.ProfilePageUC -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

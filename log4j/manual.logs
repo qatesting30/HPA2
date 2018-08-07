@@ -1,0 +1,678 @@
+2018-08-01 15:55:26 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:26 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:27 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:28 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:29 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:30 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:31 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:32 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:33 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: Y
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:34 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:35 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:36 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:37 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:133 - retrieved data: N
+    2018-08-01 15:55:38 INFO  ExcelData:186 - entered data: Skipped
+    2018-08-01 15:56:18 INFO  Login_Recovery:40 - App is in login page
+    2018-08-01 15:56:18 INFO  LoginPageUC:250 - Clearing username text field
+    2018-08-01 15:56:20 INFO  LoginPageUC:252 - Entering username
+    2018-08-01 15:56:21 INFO  ExcelData:82 - retrieved test data: hayat_sofie
+    2018-08-01 15:56:21 INFO  LoginPageUC:254 - Clearing password text field
+    2018-08-01 15:56:23 INFO  LoginPageUC:256 - Entering password
+    2018-08-01 15:56:24 INFO  ExcelData:82 - retrieved test data: Password@123
+    2018-08-01 15:56:25 INFO  LoginPageUC:258 - Hidekeyboard
+    2018-08-01 15:56:27 INFO  LoginPageUC:260 - Clicking on login button
+    2018-08-01 15:56:29 INFO  LoginPageUC:262 - Validating if logged in
+    2018-08-01 15:58:14 INFO  LoginPageUC:264 - Sucessfully logged in
+    2018-08-01 15:58:14 INFO  LoginPageUC:265 - Dashboard displayed
+    2018-08-01 15:58:14 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 15:58:14 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 15:58:14 INFO  ProfilePageUC:45 - Checking for profile page
+    2018-08-01 15:58:53 INFO  FieldValidation:62 - Element not present: Can't locate an element by this strategy: By.xpath: //strong[contains(text(),'Profile')]
+    2018-08-01 15:58:53 INFO  ExcelData:168 - invalid column number
+    2018-08-01 15:58:53 INFO  ExcelData:168 - invalid column number
+    2018-08-01 15:58:53 INFO  FieldValidation:95 - unable to find element 
+    2018-08-01 15:58:53 INFO  Profile_Recovery:30 - refreshing for profile page
+    2018-08-01 15:58:55 INFO  Menu_recovery:27 - menu btn displaying
+    2018-08-01 15:59:05 INFO  PageRefresh:34 - Clicking on menu btn
+    2018-08-01 15:59:07 INFO  PageRefresh:36 - Clicking on profile tab
+    2018-08-01 15:59:13 INFO  Profile_Recovery:34 - Profile page displaying
+    2018-08-01 15:59:26 INFO  ProfilePageUC:86 - Validating whether app is in personal contacts page
+    2018-08-01 16:00:04 INFO  FieldValidation:62 - Element not present: Can't locate an element by this strategy: By.xpath: //img[@src='assets/images/profile/contacts/Personal_Blue.png']
+    2018-08-01 16:00:04 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:00:04 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:00:04 INFO  FieldValidation:95 - unable to find element 
+    2018-08-01 16:00:04 INFO  Profile_Recovery:113 - Didn't found selected personal tab, refreshing page
+    2018-08-01 16:00:07 INFO  Menu_recovery:27 - menu btn displaying
+    2018-08-01 16:00:16 INFO  PageRefresh:34 - Clicking on menu btn
+    2018-08-01 16:00:18 INFO  PageRefresh:36 - Clicking on profile tab
+    2018-08-01 16:00:21 INFO  PageRefresh:47 - Clicking on contacts menu
+    2018-08-01 16:00:26 INFO  Profile_Recovery:117 - selected personal tab is displaying
+    2018-08-01 16:00:26 INFO  ProfilePageUC:88 - Validating personal contacts total fields
+    2018-08-01 16:00:27 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:00:27 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 16:00:27 INFO  ProfilePageUC:584 - Checking for physician page
+    2018-08-01 16:01:06 INFO  FieldValidation:62 - Element not present: Can't locate an element by this strategy: By.xpath: //strong[contains(text(),'Physicians')]
+    2018-08-01 16:01:06 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:01:06 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:01:06 INFO  FieldValidation:95 - unable to find element 
+    2018-08-01 16:01:06 INFO  Profile_Recovery:193 - Didn't found physicians page, refreshing page
+    2018-08-01 16:01:09 INFO  Menu_recovery:27 - menu btn displaying
+    2018-08-01 16:01:21 INFO  PageRefresh:34 - Clicking on menu btn
+    2018-08-01 16:01:23 INFO  PageRefresh:36 - Clicking on profile tab
+    2018-08-01 16:01:25 INFO  PageRefresh:61 - Clicking on physician menu
+    2018-08-01 16:01:29 INFO  Profile_Recovery:197 - Physicians page is displaying
+    2018-08-01 16:01:36 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:01:36 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 16:01:36 INFO  ProfilePageUC:614 - Checking for physician page
+    2018-08-01 16:01:46 INFO  Profile_Recovery:188 - Physicians page is displaying
+    2018-08-01 16:01:47 INFO  Profile_Recovery:197 - Physicians page is displaying
+    2018-08-01 16:01:47 INFO  ExcelData:82 - retrieved test data: Jain
+    2018-08-01 16:01:47 INFO  ExcelData:82 - retrieved test data: mathur
+    2018-08-01 16:01:47 INFO  ProfilePageUC:617 - required physician_name: Jain mathur
+    2018-08-01 16:01:51 INFO  ProfilePageUC:631 - physician found:Jain mathur
+    2018-08-01 16:01:53 INFO  ProfilePageUC:643 - Clearing data in phone number text field
+    2018-08-01 16:01:54 INFO  ProfilePageUC:645 - Entering updated data in phone number text field
+    2018-08-01 16:01:56 INFO  ExcelData:82 - retrieved test data: 9874561230
+    2018-08-01 16:01:56 INFO  ProfilePageUC:647 - hiding keyboard
+    2018-08-01 16:02:07 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:02:07 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 16:02:07 INFO  ProfilePageUC:711 - Checking for pharmacy page
+    2018-08-01 16:02:45 INFO  FieldValidation:62 - Element not present: Can't locate an element by this strategy: By.xpath: //strong[contains(text(),'Pharmacy')]
+    2018-08-01 16:02:45 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:02:45 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:02:45 INFO  FieldValidation:95 - unable to find element 
+    2018-08-01 16:02:45 INFO  Profile_Recovery:232 - Didn't found pharmacy page, refreshing page
+    2018-08-01 16:02:49 INFO  Menu_recovery:27 - menu btn displaying
+    2018-08-01 16:03:01 INFO  PageRefresh:34 - Clicking on menu btn
+    2018-08-01 16:03:03 INFO  PageRefresh:36 - Clicking on profile tab
+    2018-08-01 16:03:06 INFO  PageRefresh:75 - Clicking on physician menu
+    2018-08-01 16:03:10 INFO  Profile_Recovery:236 - pharmacy page is displaying
+    2018-08-01 16:03:15 INFO  ProfilePageUC:719 - No Records found message is not displaying no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='no-records-msg']"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.14393 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DT-AKASHM', ip: '192.168.15.118', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.healthec.providereconne..., appPackage: com.healthec.providereconne..., databaseEnabled: false, desired: {appActivity: com.healthec.providereconne..., appPackage: com.healthec.providereconne..., deviceName: Real Device, nativeWebScreenshot: true, platformName: Android, platformVersion: 6.0.1, skipUnlock: true}, deviceManufacturer: samsung, deviceModel: SM-J700F, deviceName: 5203512a4ea18309, deviceScreenSize: 720x1280, deviceUDID: 5203512a4ea18309, javascriptEnabled: true, locationContextEnabled: false, nativeWebScreenshot: true, networkConnectionEnabled: true, platform: LINUX, platformName: LINUX, platformVersion: 6.0.1, skipUnlock: true, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 4a165709-07a2-4a64-b06f-cdc6da05f420
+*** Element info: {Using=xpath, value=//div[@class='no-records-msg']}
+    2018-08-01 16:03:15 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:03:15 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 16:03:15 INFO  ProfilePageUC:748 - Swiping down
+    2018-08-01 16:03:48 INFO  FieldValidation:62 - Element not present: Can't locate an element by this strategy: By.id: idAddPharmacy
+    2018-08-01 16:03:48 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:03:48 INFO  ExcelData:150 - invalid sheet Index
+    2018-08-01 16:03:48 INFO  FieldValidation:95 - unable to find element 
+    2018-08-01 16:03:48 INFO  ProfilePageUC:755 - pharmacy add page is not displaying
+    2018-08-01 16:03:48 INFO  ProfilePageUC:740 - Checking for pharmacy page
+    2018-08-01 16:03:58 INFO  Profile_Recovery:227 - pharmacy page is displaying
+    2018-08-01 16:03:59 INFO  Profile_Recovery:236 - pharmacy page is displaying
+    2018-08-01 16:04:05 INFO  ProfilePageUC:758 - Swiping down
+    2018-08-01 16:04:11 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:04:11 INFO  ExcelData:186 - entered data: same as Expected Output
+    2018-08-01 16:04:11 INFO  ProfilePageUC:766 - Swiping down
+    2018-08-01 16:04:15 INFO  ProfilePageUC:770 - pharmacy add page is displaying
+    2018-08-01 16:04:18 INFO  ExcelData:82 - retrieved test data: Autmation Test Pharmacy
+    2018-08-01 16:04:22 INFO  ExcelData:82 - retrieved test data: Automation Test Person
+    2018-08-01 16:04:26 INFO  ExcelData:82 - retrieved test data: 9876543210
+    2018-08-01 16:04:30 INFO  ExcelData:186 - entered data: PASS
+    2018-08-01 16:04:30 INFO  ExcelData:186 - entered data: same as Expected Output
+    

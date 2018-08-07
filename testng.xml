@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HealthEC PHR PRO Suite">
+ <listeners>
+     <listener class-name="com.healthec.generic.utils.TestBaseClass"></listener>
+     <listener class-name="com.healthec.generic.utils.Priority"></listener>
+ </listeners>
+    <!-- <test name="StartServer">
+        <classes>
+            <class name="com.healthec.generic.utils.AppiumStartServer"/>
+        </classes>
+    </test>-->
+    <test name="PHR Pro Test" >
+
+        <parameter name="platform" value="AOS" />
+        <parameter name="deviceType" value="R" />
+
+        <groups>
+            <define name="All">
+                <include name="smoke"></include>
+                <include name="regression"></include>
+            </define>
+           
+            <run>
+                <include name="All"/>
+            </run>
+        </groups>
+
+        <classes >
+            <class name="com.healthec.generic.utils.TestBaseClass"/>
+            <class name="com.healthec.test.functional.LoginPageUC"/>
+           <class name="com.healthec.test.functional.DashboardPageUC"/>
+            <class name="com.healthec.test.functional.ProfilePageUC"/>
+        </classes>
+    </test>
+   <!-- <test name="StopServer">
+        <classes>
+            <class name="com.healthec.generic.utils.AppiumStopServer"/>
+        </classes>
+    </test>-->
+
+</suite> 

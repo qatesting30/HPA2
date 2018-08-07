@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.healthec.generic.utils.TestBaseClass"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.healthec.test.functional.LoginPageUC">
+        <methods>
+          <include name="getResult"/>
+          <include name="getInfo"/>
+          <include name="Loginpage_TC_008"/>
+          <include name="beforeloginPageTest"/>
+        </methods>
+      </class> <!-- com.healthec.test.functional.LoginPageUC -->
+      <class name="com.healthec.test.functional.DashboardPageUC">
+        <methods>
+          <include name="dashBoardPageTC_001"/>
+          <include name="getResult"/>
+          <include name="getInfo"/>
+          <include name="beforedashboardPageTest"/>
+        </methods>
+      </class> <!-- com.healthec.test.functional.DashboardPageUC -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="6" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HealthEC PHR PRO Suite" duration-ms="208293" started-at="2017-12-25T09:37:06Z" finished-at="2017-12-25T09:40:34Z">
+    <groups>
+    </groups>
+    <test name="LoginPageTest" duration-ms="43654" started-at="2017-12-25T09:37:06Z" finished-at="2017-12-25T09:37:49Z">
+      <class name="com.healthec.test.functional.LoginPageUC">
+        <test-method status="PASS" signature="beforeloginPageTest()[pri:0, instance:com.healthec.test.functional.LoginPageUC@3eb738bb]" name="beforeloginPageTest" is-config="true" duration-ms="26212" started-at="2017-12-25T15:07:06Z" finished-at="2017-12-25T15:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeloginPageTest -->
+        <test-method status="PASS" signature="beforeloginPageClass()[pri:0, instance:com.healthec.test.functional.LoginPageUC@3eb738bb]" name="beforeloginPageClass" is-config="true" duration-ms="20" started-at="2017-12-25T15:07:32Z" finished-at="2017-12-25T15:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeloginPageClass -->
+        <test-method status="PASS" signature="Loginpage_TC_009()[pri:9, instance:com.healthec.test.functional.LoginPageUC@3eb738bb]" name="Loginpage_TC_009" duration-ms="17301" started-at="2017-12-25T15:07:32Z" finished-at="2017-12-25T15:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage_TC_009 -->
+        <test-method status="PASS" signature="getInfo(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.healthec.test.functional.LoginPageUC@3eb738bb]" name="getInfo" is-config="true" duration-ms="0" started-at="2017-12-25T15:07:32Z" finished-at="2017-12-25T15:07:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@62452cc9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.healthec.test.functional.LoginPageUC.Loginpage_TC_009()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfo -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.healthec.test.functional.LoginPageUC@3eb738bb]" name="getResult" is-config="true" duration-ms="96" started-at="2017-12-25T15:07:49Z" finished-at="2017-12-25T15:07:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Loginpage_TC_009 status=SUCCESS method=LoginPageUC.Loginpage_TC_009()[pri:9, instance:com.healthec.test.functional.LoginPageUC@3eb738bb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.healthec.test.functional.LoginPageUC -->
+    </test> <!-- LoginPageTest -->
+    <test name="ProfilePageTest" duration-ms="164608" started-at="2017-12-25T09:37:49Z" finished-at="2017-12-25T09:40:34Z">
+      <class name="com.healthec.test.functional.ProfilePageUC">
+        <test-method status="PASS" signature="beforeprofilePageTest()[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="beforeprofilePageTest" is-config="true" duration-ms="1517" started-at="2017-12-25T15:07:49Z" finished-at="2017-12-25T15:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeprofilePageTest -->
+        <test-method status="PASS" signature="beforedashboardPageClass()[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="beforedashboardPageClass" is-config="true" duration-ms="15" started-at="2017-12-25T15:07:51Z" finished-at="2017-12-25T15:07:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforedashboardPageClass -->
+        <test-method status="PASS" signature="getInfo(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="getInfo" is-config="true" duration-ms="1" started-at="2017-12-25T15:07:51Z" finished-at="2017-12-25T15:07:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6941827a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.healthec.test.functional.ProfilePageUC.profilePageTC_001()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfo -->
+        <test-method status="PASS" signature="profilePageTC_001()[pri:1, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="profilePageTC_001" duration-ms="7125" started-at="2017-12-25T15:07:51Z" finished-at="2017-12-25T15:07:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageTC_001 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="getResult" is-config="true" duration-ms="2" started-at="2017-12-25T15:07:58Z" finished-at="2017-12-25T15:07:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=profilePageTC_001 status=SUCCESS method=ProfilePageUC.profilePageTC_001()[pri:1, instance:com.healthec.test.functional.ProfilePageUC@510f3d34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getInfo(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="getInfo" is-config="true" duration-ms="0" started-at="2017-12-25T15:07:58Z" finished-at="2017-12-25T15:07:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@6941827a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public static void com.healthec.test.functional.ProfilePageUC.profilePageTC_009() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getInfo -->
+        <test-method status="PASS" signature="profilePageTC_009()[pri:9, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="profilePageTC_009" duration-ms="155931" started-at="2017-12-25T15:07:58Z" finished-at="2017-12-25T15:10:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profilePageTC_009 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.healthec.test.functional.ProfilePageUC@510f3d34]" name="getResult" is-config="true" duration-ms="0" started-at="2017-12-25T15:10:34Z" finished-at="2017-12-25T15:10:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=profilePageTC_009 status=SUCCESS method=ProfilePageUC.profilePageTC_009()[pri:9, instance:com.healthec.test.functional.ProfilePageUC@510f3d34] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+      </class> <!-- com.healthec.test.functional.ProfilePageUC -->
+    </test> <!-- ProfilePageTest -->
+  </suite> <!-- HealthEC PHR PRO Suite -->
+</testng-results>
